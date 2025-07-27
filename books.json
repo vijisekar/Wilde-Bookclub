@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "genre": "Thriller",
+    "rating": 4.7,
+    "cover": "assets/covers/gone-girl.jpg",
+    "review": "Psychological thriller with an unreliable narrator and shocking plot twists.",
+    "favlines": "what you see not always true"
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-help",
+    "rating": 4.9,
+    "cover": "assets/covers/atomic-habits.jpg",
+    "review": "A practical guide to building good habits and breaking bad ones",
+    "favlines": "Every action is a vote for the type of person you wish to become"
+  },
+  {
+    "title": "The Mysterious Affair at Styles",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "rating": 4.5,
+    "cover": "images/styles.jpg",
+    "review": "Poirot's first case \u2013 a locked-room mystery with clever twists.",
+    "favlines": "Instinct is a marvelous thing. It can neither be explained nor ignored."
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "rating": 5.0,
+    "cover": "images/orient-express.jpg",
+    "review": "A snowy train, 12 suspects, and Poirot\u2019s moral dilemma.",
+    "favlines": "The impossible must be possible in spite of appearances."
+  },
+  {
+    "title": "The Mysterious Affair at Styles",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "rating": 4.5,
+    "cover": "images/styles.jpg",
+    "review": "Poirot's first case \u2013 a locked-room mystery with clever twists.",
+    "favlines": "Instinct is a marvelous thing. It can neither be explained nor ignored."
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "rating": 5.0,
+    "cover": "images/orient-express.jpg",
+    "review": "A snowy train, 12 suspects, and Poirot\u2019s moral dilemma.",
+    "favlines": "The impossible must be possible in spite of appearances."
+  },
+  {
+    "title": "The Mysterious Affair at Styles",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "rating": 4.5,
+    "cover": "images/styles.jpg",
+    "review": "Poirot's first case \u2013 a locked-room mystery with clever twists.",
+    "favlines": "Instinct is a marvelous thing. It can neither be explained nor ignored."
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "rating": 5.0,
+    "cover": "images/orient-express.jpg",
+    "review": "A snowy train, 12 suspects, and Poirot\u2019s moral dilemma.",
+    "favlines": "The impossible must be possible in spite of appearances."
+  },
+  {
+    "title": "Peril at end house",
+    "author": "Agatha christie",
+    "genre": "Thriller",
+    "rating": 4.0,
+    "cover": "cover",
+    "review": "very interesting, unexpected ending.",
+    "favlines": "- and alatogether nothing could have been more ideal."
+  },
+  {
+    "title": "Lord Edgware Dies",
+    "author": "agatha christie",
+    "genre": "Detective Novels",
+    "rating": 4.5,
+    "cover": "cover",
+    "review": "breaking the typical assumptions ",
+    "favlines": "I had feared an allusion to the little grey cells and was thankful to be spared it."
+  }
+  
+]
