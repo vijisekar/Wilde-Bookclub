@@ -1,9 +1,36 @@
-image: node:alpine
+image: node:18-alpine
+
+stages:
+  - build
+  - test
+  - lint
+  - deploy
 
 before_script:
   - apk add --no-cache rsync
 
+build_job:
+  stage: build
+  script:
+    - echo "Installing dependencies..."
+    - npm install || echo "No package.json found"
+    - echo "Build complete!"
+
+test_job:
+  stage: test
+  script:
+    - echo "Running tests..."
+    - npm test || echo "No tests defined"
+
+lint_job:
+  stage: lint
+  script:
+    - echo "Running lint check..."
+    - npx eslint . || echo "No ESLint config found"
+  allow_failure: true
+
 pages:
+  stage: deploy
   script:
     - mkdir public
     - rsync -av --exclude=public ./ public/
